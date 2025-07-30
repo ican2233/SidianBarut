@@ -14,11 +14,11 @@
   {
     "id": "f94edfa80215670d",
     "key": "user1",
-    "expiresAt": "2025-07-29",
+    "expiresAt": "2025-08-30",
     "allowOffline": true
   },
   {
-    "id": "efaadde09e2d3",
+    "id": "f94edfa80215",
     "key": "user2",
     "expiresAt": "2025-07-30",
     "allowOffline": true
