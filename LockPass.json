@@ -8,7 +8,7 @@
   {
     "id": "efaadde09e2d3966",
     "key": "user",
-    "expiresAt": "2025-07-30",
+    "expiresAt": "2025-08-30",
     "allowOffline": true
   },
   {
@@ -18,7 +18,7 @@
     "allowOffline": true
   },
   {
-    "id": "6c9b9edb46e95b6c",
+    "id": "efaadde09e2d3",
     "key": "user2",
     "expiresAt": "2025-07-30",
     "allowOffline": true
