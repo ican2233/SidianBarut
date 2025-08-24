@@ -6,6 +6,12 @@
     "allowOffline": true
   },
   {
+    "id": "9c9fc8251c601ece",
+    "key": "test",
+    "expiresAt": "2025-08-26",
+    "allowOffline": true
+  },
+  {
     "id": "efaadde09e2d3966",
     "key": "user",
     "expiresAt": "2025-08-30",
