@@ -20,7 +20,7 @@
   {
     "id": "e703ede2fc8c0f0a",
     "key": "user1",
-    "expiresAt": "2025-08-30",
+    "expiresAt": "2025-08-31",
     "allowOffline": true
   },
   {
@@ -56,7 +56,7 @@
   {
     "id": "25ff5299d7e6c8aa",
     "key": "user7",
-    "expiresAt": "2025-08-30",
+    "expiresAt": "2025-08-31",
     "allowOffline": true
   },
   {
@@ -74,7 +74,7 @@
   {
     "id": "b30727e4b427e932",
     "key": "user10",
-    "expiresAt": "2025-08-30",
+    "expiresAt": "2025-08-31",
     "allowOffline": true
   },
   {
