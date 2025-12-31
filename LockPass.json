@@ -105,6 +105,6 @@
     "id": "c51a1ceac3de8022",
     "key": "User21",
     "expiresAt": "2026-01-31",
-    "allowOffline": "True"
+    "allowOffline": true
   }
 ]
