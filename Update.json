@@ -3,7 +3,7 @@
     "enabled": true,
     "version": "15.0",
     "mandatory": false,
-    "update_url": "https://t.me/melawanbudayadominan",
+    "update_url": "",
     "title": "Update Available",
     "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
     "socialLinks": [
@@ -21,7 +21,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://wa.me/6285161023070"
+        "url": "https://t.me/melawanbudayadominan"
       }
     ]
   }
