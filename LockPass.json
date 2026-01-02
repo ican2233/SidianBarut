@@ -124,5 +124,11 @@
     "key": "User29",
     "expiresAt": "2026-02-01",
     "allowOffline": true
+  },
+  {
+    "id": "9b04f8a3514dbd9f",
+    "key": "User32",
+    "expiresAt": "2026-02-02",
+    "allowOffline": true
   }
 ]
